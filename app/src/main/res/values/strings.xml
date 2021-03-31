@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">HOTEL BOOKER</string>
+
+    <!-- MainActivity Strings -->
+    <string name="img_cont">Hotel</string>
+    <string name="book_hotel">BOOK A HOTEL ROOM</string>
+    <string name="booked_stay">YOUR RESERVATIONS</string>
+    <string name="app_desc">Hotel Booker is a hotel reservation mobile application. Hotel Booker will allow a user to book prominent hotels in and around the United Kingdom.</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="welcome">Welcome</string>
+    <string name="logout">LOGOUT</string>
+
+    <!-- RegisterActivity Strings -->
+    <string name="reg_header">REGISTER</string>
+    <string name="forename_txt">Forename</string>
+    <string name="surname_txt">Surname</string>
+    <string name="email_txt">Email</string>
+    <string name="password_txt">Password</string>
+
+    <!-- Login Layout -->
+    <string name="login_header">LOGIN</string>
+    <string name="close">CLOSE</string>
+
+    <!-- Book Hotel Layout -->
+    <string name="book_title">BOOK A HOTEL</string>
+    <string name="search">SEARCH</string>
+    <string name="back">BACK</string>
+    <string name="reset">RESET</string>
+    <string name="cart">CART</string>
+    <string name="date">Date</string>
+    <string name="night">Nights</string>
+    <string name="heads">Heads</string>
+    <string name="book">Book</string>
+    <string-array name="day_spinner">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="month_spinner">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="year_spinner">
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+    </string-array>
+    <string-array name="night_spinner">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="head_spinner">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+    </string-array>
+
+    <!-- Search Dialog -->
+    <string name="hotel_name">Hotel Name</string>
+    <string name="city">City</string>
+    <string name="rating">Rating</string>
+    <string name="filter">FILTER</string>
+    <string-array name="rating_spinner">
+        <item>-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <!-- Reservation List Layout -->
+    <string name="reservation_list">YOUR RESERVATIONS</string>
+
+</resources>
