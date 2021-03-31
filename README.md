@@ -76,5 +76,7 @@ It is futile if the data is diminished upon exiting the application. Therefore t
 to use SQLite database to store and retrieve data.
 
 
-<img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/main_activity.jpg?raw=true" width="250">
+<img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/main_activity.jpg?raw=true" width="250"><img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/register.jpg?raw=true" width="250"><img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/login.jpg?raw=true" width="250"><img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/main_activity2.jpg?raw=true" width="250">
+<img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/hotel_list.jpg?raw=true" width="250"><img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/search.jpg?raw=true" width="250"><img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/search_result.jpg?raw=true" width="250"><img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/book.jpg?raw=true" width="250">
+<img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/book_confirm.jpg?raw=true" width="250"><img src="https://github.com/SuparnoD/HotelBooker/blob/master/app/src/main/res/drawable/res_list.jpg?raw=true" width="250">
 
